@@ -1,0 +1,10 @@
+.\obj\sine_generator.o: src\sine_generator.c
+.\obj\sine_generator.o: C:\Keil\ARM\CMSIS\Include\arm_math.h
+.\obj\sine_generator.o: C:\Keil\ARM\CMSIS\Include\core_cm4.h
+.\obj\sine_generator.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\sine_generator.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\obj\sine_generator.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\obj\sine_generator.o: C:\Keil\ARM\CMSIS\Include\core_cm4_simd.h
+.\obj\sine_generator.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\obj\sine_generator.o: C:\Keil\ARM\ARMCC\bin\..\include\math.h
+.\obj\sine_generator.o: .\include\sine_generator.h

@@ -1,0 +1,5 @@
+--cpu Cortex-M4 ".\obj\dirtyfilter.o" ".\obj\sine_generator.o" ".\obj\low_pass_filter.o" ".\obj\retarget.o" D:\CMSIS\Lib\ARM\arm_cortexM4l_math.lib ".\obj\serial_stm32f4.o" ".\obj\rtx_conf_stm32f4.o" ".\obj\system_stm32f4xx.o" ".\obj\startup_stm32f4xx.o" 
+C:\Keil\ARM\RV31\LIB\RTX_CM3.LIB --library_type=microlib --strict --scatter ".\obj\sine.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\lst\sine.map" -o .\obj\sine.axf

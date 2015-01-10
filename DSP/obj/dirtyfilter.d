@@ -1,0 +1,15 @@
+.\obj\dirtyfilter.o: src\DirtyFilter.c
+.\obj\dirtyfilter.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+.\obj\dirtyfilter.o: C:\Keil\ARM\RV31\INC\rtl.h
+.\obj\dirtyfilter.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+.\obj\dirtyfilter.o: C:\Keil\ARM\CMSIS\Include\arm_math.h
+.\obj\dirtyfilter.o: C:\Keil\ARM\CMSIS\Include\core_cm4.h
+.\obj\dirtyfilter.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\dirtyfilter.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\obj\dirtyfilter.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\obj\dirtyfilter.o: C:\Keil\ARM\CMSIS\Include\core_cm4_simd.h
+.\obj\dirtyfilter.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\obj\dirtyfilter.o: C:\Keil\ARM\ARMCC\bin\..\include\math.h
+.\obj\dirtyfilter.o: .\include\sine_generator.h
+.\obj\dirtyfilter.o: .\include\rtxtime.h
+.\obj\dirtyfilter.o: .\include\low_pass_filter.h

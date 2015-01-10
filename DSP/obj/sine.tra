@@ -1,0 +1,28 @@
+*** Creating Trace Output File '.\obj\sine.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '".\obj\dirtyfilter.o"'
+### List of Objects: adding '".\obj\sine_generator.o"'
+### List of Objects: adding '".\obj\low_pass_filter.o"'
+### List of Objects: adding '".\obj\retarget.o"'
+### List of Objects: adding '"..\..\..\..\CMSIS\Lib\ARM\arm_cortexM4l_math.lib"'
+### List of Objects: adding '".\obj\serial_stm32f4.o"'
+### List of Objects: adding '".\obj\rtx_conf_stm32f4.o"'
+### List of Objects: adding '".\obj\system_stm32f4xx.o"'
+### List of Objects: adding '".\obj\startup_stm32f4xx.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M4 ".\obj\dirtyfilter.o" ".\obj\sine_generator.o" ".\obj\low_pass_filter.o" ".\obj\retarget.o" D:\CMSIS\Lib\ARM\arm_cortexM4l_math.lib ".\obj\serial_stm32f4.o" ".\obj\rtx_conf_stm32f4.o" ".\obj\system_stm32f4xx.o" ".\obj\startup_stm32f4xx.o" 
+C:\Keil\ARM\RV31\LIB\RTX_CM3.LIB --library_type=microlib --strict --scatter ".\obj\sine.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\lst\sine.map" -o .\obj\sine.axf### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '.\obj\sine.axf'
+### ADS-LD Command File: '.\obj\sine.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '.\obj\sine.lnp', Handle=0x00000370
+### Writing '.lnp' file
+### ADS-LD Command file '.\obj\sine.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 1 errors
+### Updating obj list
+### LDADS_file() completed.

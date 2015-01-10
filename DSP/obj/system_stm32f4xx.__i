@@ -1,0 +1,5 @@
+-c --cpu Cortex-M4 -D__RTX -D__MICROLIB -g -O0 --apcs=interwork -I.\include 
+-I C:\Keil\ARM\RV31\INC 
+-I C:\Keil\ARM\CMSIS\Include 
+-I C:\Keil\ARM\Inc\ST\STM32F4xx 
+-DARM_MATH_CM4 -D__DBG_ITM -o ".\obj\system_stm32f4xx.o" --omf_browse ".\obj\system_stm32f4xx.crf" --depend ".\obj\system_stm32f4xx.d" "system_stm32f4xx.c"
